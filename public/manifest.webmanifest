@@ -1,0 +1,12 @@
+{
+  "name": "Coin Collecter",
+  "short_name": "Coin Collecter",
+  "id": "com.example.simpleplatformer",
+  "description": "",
+  "orientation": "any",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "black",
+  "categories": ["games", "entertainment"],
+  "icons": []
+}
